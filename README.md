@@ -1,7 +1,7 @@
 Hi 👋 My name is Kabil Shrestha
 ===============================
 
-Amature Web Developer and Artificial Intelligence Student
+Web Developer and Artificial Intelligence Student
 ---------------------------------------------------------
 
 * 🌍  I'm based in Kathmandu, Nepal
