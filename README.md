@@ -6,7 +6,7 @@ Web Developer and Artificial Intelligence Student
 
 * 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [kabilshrestha06@gmail.com](mailto:kabilshrestha06@gmail.com)
-* 🚀  I'm currently working on [Bright Minds Academy](http://brightminds.edu.np)
+* 🚀  I'm currently working on [Portfolio]([http://brightminds.edu.np](https://www.kabilshrestha.com.np/))
 * 🧠  I'm learning Django
 
 ### Skills
